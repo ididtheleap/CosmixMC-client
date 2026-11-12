@@ -1,0 +1,5 @@
+[standalone-teavm] requestedOptimization=ADVANCED effectiveOptimization=ADVANCED dependencyAnalysis=precise strict=true obfuscated=true
+INFO: Running TeaVM
+[standalone-teavm] phase=DEPENDENCY_ANALYSIS workItems=0
+[standalone-teavm] progress=65/0
+EAGLER_UNSUPPORTED_STRIP java.util.Date.toString (removed @UnsupportedOn)
